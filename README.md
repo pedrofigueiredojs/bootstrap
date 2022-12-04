@@ -1,6 +1,6 @@
-# Sass
+# Bootstrap
 
-Project using Sass for remember some concepts
+Project using Bootstrap for remember some concepts
 
 #### Technologies
 
